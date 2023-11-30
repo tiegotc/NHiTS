@@ -9,5 +9,5 @@ USAGE:
 
 - Install required package to run the code:
   pip install -r requirements.txt
-- Run the model on Apple stock data
+- Run the model on Apple stock data:
   python main.py
